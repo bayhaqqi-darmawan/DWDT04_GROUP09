@@ -85,14 +85,14 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Shafiq</a>
-                    <a href="https://laracasts.com">Sayang</a>
-                    <a href="https://laravel-news.com">Siti</a>
-                    <a href="https://blog.laravel.com">And</a>
-                    <a href="https://nova.laravel.com">Iyah</a>
-                    <a href="https://forge.laravel.com">Forever</a>
-                    <a href="https://vapor.laravel.com">Till</a>
-                    <a href="https://github.com/laravel/laravel">Jannah</a>
+                    <a href="https://laravel.com/docs">Airul</a>
+                    <a href="https://laracasts.com">Suka</a>
+                    <a href="https://laravel-news.com">Bejubur</a>
+                    <a href="https://blog.laravel.com">Sama</a>
+                    <a href="https://nova.laravel.com">Mund</a>
+                    <a href="https://forge.laravel.com">Dan</a>
+                    <a href="https://vapor.laravel.com">Ihsan</a>
+                    <a href="https://github.com/laravel/laravel">Qingyun</a>
                 </div>
             </div>
         </div>
